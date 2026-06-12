@@ -1,15 +1,16 @@
----
-
 ## 🛠️ Tech Stack
 
-**Frontend:** React.js, Leaflet.js, D3.js, Recharts, React Router, Vite  
-**Backend:** Node.js (Catalyst Serverless), zcatalyst-sdk-node  
-**AI / ML:** Catalyst Zia AutoML, Random Forest (patterns), Isolation Forest (anomalies)  
-**Database:** Catalyst DataStore (4 tables: Crimes, Suspects, Victims, Locations)  
-**Storage:** Catalyst Stratus (PDF object storage)  
-**DevOps:** Zoho Catalyst Platform, zcatalyst-cli, GitHub  
+**Frontend:** React.js, Leaflet.js, D3.js, Recharts, React Router, Vite
 
----
+**Backend:** Node.js (Catalyst Serverless), zcatalyst-sdk-node
+
+**AI / ML:** Catalyst Zia AutoML, Random Forest (patterns), Isolation Forest (anomalies)
+
+**Database:** Catalyst DataStore (4 tables: Crimes, Suspects, Victims, Locations)
+
+**Storage:** Catalyst Stratus (PDF object storage)
+
+**DevOps:** Zoho Catalyst Platform, zcatalyst-cli, GitHub
 
 ## 🚀 Catalyst Services Used
 
@@ -22,8 +23,6 @@
 - ✅ Catalyst Stratus (object storage)
 - ✅ Catalyst Cron (midnight aggregation)
 
----
-
 ## 📊 Performance Benchmarks
 
 | Check | Status |
@@ -34,35 +33,28 @@
 | Auto-Play Carousel | ✅ PASSED — 5s cycle across all views |
 | PDF Export | ✅ PASSED — Custom print CSS, no UI artifacts |
 | Network Graph Nodes | ✅ 75+ nodes (exceeds 25-node requirement) |
-| Cron & API Config | ✅ PASSED — All endpoints & triggers mapped |
-
----
+| Cron and API Config | ✅ PASSED — All endpoints and triggers mapped |
 
 ## 🔗 Links
 
 | Resource | Link |
 |---|---|
-| 🌐 Live App | https://client-hosting-ugqdxbdc.onslate.in |
-| 🎥 Demo Video | *[Add YouTube/Drive link]* |
-| 📊 Datathon | Hack2Skill Datathon 2026 |
-
----
+| 🌐 Live App |https://client-hosting-nextgen.onslate.in  |
+| 🎥 Demo Video | Add your YouTube or Drive link here |
+| 📁 GitHub | https://github.com/Vijaysumara/KSP-CrimeAnalytics-Platform |
 
 ## 👥 Team
 
-**Team:** KSP Analytics Squad  
-**Leader:** Vijay Sumara  
-**Datathon:** Hack2Skill — AI-Driven Crime Analytics & Visualization Platform  
+**Team:** Nextgen coder
 
----
+
+**Event:** Hack2Skill Datathon 2026 — AI-Driven Crime Analytics and Visualization Platform
 
 ## 🔮 Future Roadmap
 
 - **Phase 2** — Live FIR database integration via secure KSP API
-- **Phase 3** — Flutter mobile app for field officers (offline + GPS reporting)
-- **Phase 4** — NLP FIR auto-classification + Kannada voice reporting + facial recognition
-- **Phase 5** — Multi-state expansion (reusable architecture)
-
----
+- **Phase 3** — Flutter mobile app for field officers with offline and GPS reporting
+- **Phase 4** — NLP FIR auto-classification, Kannada voice reporting, facial recognition
+- **Phase 5** — Multi-state expansion with reusable architecture
 
 *Built with ❤️ for Karnataka State Police · Hack2Skill Datathon 2026*
